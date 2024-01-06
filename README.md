@@ -8,12 +8,14 @@
  
  # Usage  
  * Relative Strength Index (RSI)calcultion (rsi.py):
- 1- calculating the RSI for a 14-day window and Writing RSI to CSV:
+
+    1- calculating the RSI for a 14-day window and Writing RSI to CSV:
  This script will compute RSI values for a 14-day window using the 'Close' prices from the 'orcl.csv' file. The resulting RSI values will 
  be saved in a new file named orcl-rsi.csv.
  
  * Simple Moving Average (SMA) Calculation(sma.py):
- 2- Calculating SMA for a 5-day window and Writing SMA to CSV:
+
+   2- Calculating SMA for a 5-day window and Writing SMA to CSV:
  the script will compute SMA values for a 5-day window using the 'Close' prices from the 'orcl.csv' file. The resulting SMA values will 
  be saved in a new file named orcl-sma.csv.
 
